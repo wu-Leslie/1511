@@ -1,0 +1,6 @@
+Bacon-Piece 5 0.20
+Ham 4 0.20
+Mozzarella-Cheese 5 0.30
+Pepperoni-Slice 4 0.20
+Regular-Base 1 2.00
+Sliced-Beef-Sausage 3 0.40

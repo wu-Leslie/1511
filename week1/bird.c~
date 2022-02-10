@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+
+    printf("  ___\n");    
+    printf(" ('v')\n");
+    printf("((___))\n");
+    printf("  ___\n");
+    printf("  ___\n");
+    
+
+    return 0;
+}
+
+

@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void){
+    int first_number;
+    int x;
+    int y;
+    scanf("%d %d %d",&first_number,&x,&y);
+    if(first_number == 1){
+        }printf("%d", x+y);    
+    }

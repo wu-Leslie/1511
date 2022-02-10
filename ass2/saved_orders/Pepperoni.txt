@@ -1,0 +1,3 @@
+Gluten-Free-Base 1 3.50
+Mozzarella-Cheese 7 0.30
+Pepperoni-Slice 15 0.20
